@@ -34,7 +34,6 @@
 	}
 	.overlay.open{
 		display:block;
-		z-index:998;
 	}
 	.nav-link{padding-left:25px !important;}
 }
